@@ -18,7 +18,7 @@ In this project we are using **Python 3.8/ Jupyter lab**. The libraries that we 
 ## Contributors
 This code was shared in 2021 Education Services at UCB. 
 
-Additional updates/ uploads for usability was added by rulo.nogales@nogalesinvestments.com
+Additional updates/ uploads for usability was added by raul@nogalesfundmgmt.com
 
 ---
 
